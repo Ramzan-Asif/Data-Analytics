@@ -1,4 +1,4 @@
-# Electronics-Sales-Dashboard
+# Electronics Sales Dashboard - PowerBI
 This repository contains a Power BI dashboard designed to analyze and visualize sales data for digital & electronic products and accessories. The dashboard provides key insights into sales trends, product performance, and revenue distribution across various categories and regions.
 
 ## Key Features
