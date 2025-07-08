@@ -56,4 +56,4 @@ Aspiring Data Scientist
 ---
 
 ## Hashtags
-#DataScience #PowerBI #SalesAnalytics #DataVisualization #Analytics #DataScienceProject #LearningJourney
+#DataScience #ExploratoryDataAnalysis #Python #PowerBI #SalesAnalytics #DataVisualization #Analytics #DataScienceProject #LearningJourney
