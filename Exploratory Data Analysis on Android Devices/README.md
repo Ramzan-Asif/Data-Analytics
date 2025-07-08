@@ -37,4 +37,9 @@ To analyze trends in mobile phone specifications (battery, RAM, ROM, camera, etc
 - Battery size doesn’t strongly affect price
 - Some high-priced phones still have low ratings (interesting!)
 
-## 📎 Folder Structure
+## 💡 Key Takeaways
+
+This EDA taught me:
+- Practical Pandas & regex for messy text data
+- Data visualization for real-world mobile trends
+- Structuring a project for GitHub and career portfolio
