@@ -26,7 +26,7 @@ Hi! I'm Ramzan Asif, a student with a passion for data science. This project is 
 **Explore the Dashboard:** Interact with the various visuals and filters to explore the sales data and derive insights.
 
 ## Screenshots
-![Screenshot 2024-08-05 120403](https://github.com/user-attachments/assets/c1c1f666-8f5b-40bc-bd72-1035943ed7a2)
+![Screenshot 2024-08-05 120403](https://github.com/Ramzan-Asif/Data-Analytics/blob/main/Cookie-Sales-Insights/355004308-c1c1f666-8f5b-40bc-bd72-1035943ed7a2.png?raw=true)
 
 ## Connect
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ramzan-asif/) if you'd like to discuss the project or share your feedback. Let's keep learning and growing together!
