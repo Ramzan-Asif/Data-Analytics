@@ -46,7 +46,7 @@ The primary objective of this project was to create a visually compelling and in
 **Further Analysis:** Use the included shapefiles (Districts.shp, Provinces.shp, PakistanMap.shp) to extend your analysis or create additional visualizations.
 
 ## Electricity Coverage by Districts.png
-![Electricity Coverage _ by Districts](https://github.com/user-attachments/assets/1ed660d6-b573-4ace-822a-9ee761fbf2b1)
+![Electricity Coverage _ by Districts](https://github.com/Ramzan-Asif/Data-Analytics/blob/main/QGIS-Electricity-Coverage/Electricity%20Coverage%20_%20by%20Districts.png?raw=true)
 
 ## Contribution
 If you have any suggestions or improvements for this project, feel free to fork the repository and create a pull request. Contributions are always welcome!
