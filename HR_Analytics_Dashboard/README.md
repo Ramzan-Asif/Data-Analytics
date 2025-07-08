@@ -25,7 +25,7 @@ Salary Insights: Visualized salary trends and disparities to ensure fair compens
 
 ### Screenshot
 
-![Screenshot 2024-08-04 101822](https://github.com/user-attachments/assets/518c73e6-2e22-45f6-977f-ba0d37beb132)
+![Screenshot 2024-08-04 101822](https://github.com/Ramzan-Asif/Data-Analytics/blob/main/HR_Analytics_Dashboard/hr_dashboard.png?raw=true)
 
 ### Let's Connect
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ramzan-asif/) if you'd like to discuss the project or share your feedback. Let's keep learning and growing together!
